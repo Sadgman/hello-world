@@ -2,7 +2,7 @@
     <html>
         <head>
             <meta charset="utf-8">
-            <link rel="stylesheet" href="styles.css">
+            <link rel="stylesheet" href="style.css">
         </head>
         <body>
             <div>
