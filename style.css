@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+header{
+    text-align: center;
+}
+li{
+    font-size: 20px;
+    cursor: pointer;
+    list-style: none;
+}
+#style{
+    font-family: sans-serif;
+    color: #fff;
+    background-color: black;
+}
+#storm{
+    padding-top: 1%;
+    padding-left: 1%;
+    background-color: #ff9;
+    width: 50%;
+    margin-left: 27%;
+    margin-top: 10%;
+    height: 20%;
+}
