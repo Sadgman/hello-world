@@ -23,3 +23,6 @@ li{
     margin-top: 10%;
     height: 20%;
 }
+a:hover{
+    color:brown;
+}
